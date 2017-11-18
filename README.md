@@ -13,7 +13,8 @@ It has the following features:
 - search transactions
 - list transactions
 
-1. To install, download zip from button above. 
+## Installation and Use
+1. Download zip from button above. 
 2. Uncompress the files into a directory.
 3. Open terminal and ```cd``` into the correct directory.
 4. Type ```createdb expenses``` to create the postgresql database.
