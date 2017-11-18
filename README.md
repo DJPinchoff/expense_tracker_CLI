@@ -18,4 +18,4 @@ It has the following features:
 3. Open terminal and ```cd``` into the correct directory.
 4. Type ```createdb expenses``` to create the postgresql database.
 5. Type ```psql expenses < schema.sql``` to load in the correct schema to the database.
-6. Then type ```./expense <command>``` where <command> is one of the features listed above.
+6. Then type ```./expense <command>``` where ```<command>``` is one of the features listed above.
