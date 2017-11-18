@@ -1,4 +1,4 @@
-##Command Line Database Expense Tracking App##
+# Command Line Database Expense Tracking App
 
 Launch School Course 180: Interacting with a Database in Code
 
